@@ -19,4 +19,5 @@ C++ (cursor application): SDL 2.0.4 (https://libsdl.org/download-2.0.php)
 4. Compile and run Center_out.cpp to start the cursor task.
 5. Start recording. 
 
-For retraining, pause the EEG recording and run "Retrain.m". Then resume recording for updated decoding parameters. 
+For Re-FIT Kalman filter online retraining: 
+Pause the EEG recording and run "Retrain.m", then resume recording. The decoder parameters will be updated. 
