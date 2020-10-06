@@ -5,12 +5,12 @@ Re-FIT Kalman Filter original paper (https://www.ncbi.nlm.nih.gov/pmc/articles/P
 
 
 ## Dependencies
-Recording Device: Compumedics 64-channel Quik-Cap (1000Hz)
-Amplifier: Compumedics Synamps 2 headbox
-Processing Software: Compumedics Curry 7
-Software Environment:
-Matlab (decoder): Signal Processing Toolbox
-C++ (cursor application): SDL 2.0.4 (https://libsdl.org/download-2.0.php)
+- Recording Device: Compumedics 64-channel Quik-Cap (1000Hz)
+- Amplifier: Compumedics Synamps 2 headbox
+- Processing Software: Compumedics Curry 7
+- Software Environment:
+- Matlab (decoder): Signal Processing Toolbox
+- C++ (cursor application): SDL 2.0.4 (https://libsdl.org/download-2.0.php)
 
 ## Instructions
 1. Connect the EEG cap to your computer.
