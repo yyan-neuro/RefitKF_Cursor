@@ -18,3 +18,5 @@ C++ (cursor application): SDL 2.0.4 (https://libsdl.org/download-2.0.php)
 3. Run bci_init.m to initilize the pipeline (raw signal -> Matlab decoder -> C++ Cursor Application)
 4. Compile and run Center_out.cpp to start the cursor task.
 5. Start recording. 
+
+For retraining, pause the EEG recording and run "Retrain.m". Then resume recording for updated decoding parameters. 
