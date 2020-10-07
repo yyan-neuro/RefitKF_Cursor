@@ -1,7 +1,7 @@
 # RefitKF_Cursor
 
 Implementation of the Re-FIT Kalman Filter for EEG Cursor Control
--Re-FIT Kalman Filter original paper (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638087/.
+- Re-FIT Kalman Filter original paper (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638087/.
 
 
 ## Dependencies
