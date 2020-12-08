@@ -1,6 +1,6 @@
 # RefitKF_Cursor
 
-Implementation of the Re-FIT Kalman Filter for EEG Cursor Control
+An EEG brain-machine interface built on a modified Re-FIT Kalman filter.
 - The original Re-FIT Kalman filter for invasive recordings (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638087/).
 
 
